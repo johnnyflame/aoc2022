@@ -1,4 +1,3 @@
-from calendar import c
 from enum import Enum
 from typing import Tuple
 from aocd import get_data
